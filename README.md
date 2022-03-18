@@ -1,5 +1,3 @@
-# moment4_vt22-saragirke
-moment4_vt22-saragirke created by GitHub Classroom
 
 Bloggportal
 
