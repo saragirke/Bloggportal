@@ -1,9 +1,13 @@
 # moment4_vt22-saragirke
 moment4_vt22-saragirke created by GitHub Classroom
 
-Syftet med uppgiften är få förståelse för hur en anslutning görs till en mySQL-databas med PHP. 
-Till uppgiften har en bloggportal påbörjats. 
+Bloggportal
 
-Det finns möjlighet att logga in på en admin-sidan där det går att skapa, ändra och radera inlägg. 
+Möjlighet att registrera konto och logga in. 
 
-Koden är objektorienterad och består bland annat av SQL-kommandon SELECT, INSERT, UPDATE och DELETE.
+Inloggad användare kan göra inlägg, ändra sina inlägg samt rader  sina inlägg. 
+Inloggad användare kan kommentera andras inlägg samt radera egna kommentarer. 
+
+
+Fokus på säkerhet. 
+Koden är objektorienterad PHP och består bland annat av SQL-kommandon SELECT, INSERT, UPDATE och DELETE.
